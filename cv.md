@@ -1,7 +1,7 @@
 # Fiodar Yatsenka
-#### MSQ/MSK | Marketing & Developing
-
-[telegram](t.me/pulyavzubah) | [discord](https://discord.com/users/980852726613286953) | [phone](tel:+79268334762) | [email](mailto:yatsenkof@gmail.com)
+##### MSQ/MSK | Marketing & Developing
+--------------
+[telegram](t.me/pulyavzubah)  |  [discord](https://discord.com/users/980852726613286953)  |  [phone](tel:+79268334762)  |  [email](mailto:yatsenkof@gmail.com)
 
 ## About
 I consider the possibility of helping society to be the highest good for the individual.
@@ -26,9 +26,10 @@ Through development, I want to learn how to create, not just use.
 * advertising in [paramon.by](https://paramon.by/) (2019 — 2020)
 * advertising in [homegarden.by](http://homegarden.by/) (2019 — 2020)
 * advertising in [толк.бел](https://xn--j1abip.xn--90ais/) (2018)
+
 ## Education & Languages
 BSEU | Finance (Minsk, Belarus)
 
 **Native** Russian
 
-English: **B1**
+**Intermediate** English

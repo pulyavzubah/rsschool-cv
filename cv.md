@@ -1,5 +1,5 @@
 # Fiodar Yatsenka
-### :round_pushpin: MSQ/MSK | Marketing & Developing
+### MSQ/MSK | Marketing & Developing
 [telegram](t.me/pulyavzubah)  |  [discord](https://discord.com/users/980852726613286953)  |  [phone](tel:+79268334762)  |  [email](mailto:yatsenkof@gmail.com)
 
 ## About
